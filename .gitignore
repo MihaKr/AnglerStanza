@@ -160,3 +160,23 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+
+
+#resources
+/stanza_sentiment/stanza_resources
+/stanza_ner/stanza_resources
+/stanza_mwt/stanza_resources
+/stanza_depparse/stanza_resources
+/stanza_tokenize/stanza_resources
+/stanza_pos/stanza_resources
+/stanza_lemma/stanza_resources
+/stanza_ constituency/stanza_resources
+
+/classla_SENTIMENT/classla_resources
+/classla_DEPPARSE/classla_resources
+/classla_LEMMA/classla_resources
+/classla_MWT/classla_resources
+/classla_NER/classla_resources
+/classla_POS/classla_resources
+/tokenize/classla_resources
+/classla_ constituency/classla_resources
